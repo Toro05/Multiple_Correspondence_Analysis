@@ -1,1 +1,1 @@
-# Multiple_Correspondance_Analysis
+# Multiple_Correspondence_Analysis
